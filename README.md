@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 - Link de referencia: https://docs.google.com/document/d/15q_SOn4jbOaaUd48alAXBP6d5gYiKGMP55wdel-rzo8/edit?pli=1
 - Angel Anaya a.21308051280312@cbtis128.edu.mx
 
-## Resultado de mi aplicacion en FlutLab: 
+## Resultado de mi aplicacion en Flutter: 
 ![image](https://github.com/AnayaMarinAngelAlejandro/RutaPag-Anaya0312/assets/143743148/d442d051-ee84-4340-9f3a-38a075a4dec2)
 ![image](https://github.com/AnayaMarinAngelAlejandro/RutaPag-Anaya0312/assets/143743148/cd93174d-5ded-4180-99f9-3fb8b438cbae)
 ![image](https://github.com/AnayaMarinAngelAlejandro/RutaPag-Anaya0312/assets/143743148/03de5619-3583-4f46-8f8d-f795ca10ec06)
